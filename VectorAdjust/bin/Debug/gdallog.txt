@@ -1,0 +1,4 @@
+Shape: DBF Codepage = LDID/77 for C:\Users\10043\Desktop\point\shantou_baidu.shp
+GDAL: GDALOpen(C:\Users\10043\Desktop\point\shantou_baidu.shp, this=0000027B626D16A0) succeeds as ESRI Shapefile.
+GDAL: GDALDriver::Create(ESRI Shapefile,E:\,0,0,0,Unknown,0000000000000000)
+Shape: DBF Codepage = LDID/87 for E:\shantou_baidu.shp

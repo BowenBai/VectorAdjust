@@ -1,0 +1,26 @@
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\VectorAdjust.exe.config
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\VectorAdjust.exe
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\VectorAdjust.pdb
+D:\C#codes\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.csprojResolveAssemblyReference.cache
+D:\C#codes\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.Form1.resources
+D:\C#codes\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.Properties.Resources.resources
+D:\C#codes\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.csproj.GenerateResource.Cache
+D:\C#codes\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.exe
+D:\C#codes\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.pdb
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\gdalconst_csharp.dll
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\gdal_csharp.dll
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\ogr_csharp.dll
+D:\C#codes\VectorAdjust\VectorAdjust\bin\Debug\osr_csharp.dll
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\VectorAdjust.exe.config
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\VectorAdjust.exe
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\VectorAdjust.pdb
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\gdalconst_csharp.dll
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\gdal_csharp.dll
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\ogr_csharp.dll
+E:\9 My_code\VectorAdjust\VectorAdjust\bin\Debug\osr_csharp.dll
+E:\9 My_code\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.csprojResolveAssemblyReference.cache
+E:\9 My_code\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.Form1.resources
+E:\9 My_code\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.Properties.Resources.resources
+E:\9 My_code\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.csproj.GenerateResource.Cache
+E:\9 My_code\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.exe
+E:\9 My_code\VectorAdjust\VectorAdjust\obj\Debug\VectorAdjust.pdb
